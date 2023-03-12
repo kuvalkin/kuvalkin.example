@@ -1,4 +1,4 @@
-# Bitrix Module with REST/AJAX endpoint Example
+# Bitrix Module with REST/AJAX endpoint example
 This is an example of a Bitrix module with a REST/AJAX endpoint. To use this module, clone this repository to your local/modules directory on your Bitrix server and install the module through the admin panel.
 
 ## Endpoints
